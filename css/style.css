@@ -1,0 +1,20 @@
+#root{
+    text-align: center;
+}
+img{
+    height: 800px;
+    transition: height 1s;
+}
+
+.resize{
+    height: 500px;
+}
+
+.hide{
+    display: none;
+}
+
+button {
+    margin: auto;
+    display: block;
+}
